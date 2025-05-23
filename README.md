@@ -11,4 +11,4 @@ A project made while doing "[The Complete Full-Stack Web Development Bootcamp](h
 
 All the rights to the respective pictures go to their owners. All the pictures were free to use.
 
-*The project was developed independently by me, following general guidelines provided by the course.*
+*The project was developed independently by me, the course merely provided a direction as to what the project should achieve.*
