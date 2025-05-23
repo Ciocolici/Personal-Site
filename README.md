@@ -1,5 +1,5 @@
 # Personal Site
-A project made while doing "[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" as part of my internship at Terrera AG. It’s a simple, responsive personal website built using HTML, CSS, and Bootstrap, designed to showcase my background and some of the projects I’ve worked on during my journey as an aspiring developer.
+A project made while doing "[The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)" Udemy Course, as part of my internship at Terrera AG. It’s a simple, responsive personal website built using HTML, CSS, and Bootstrap, designed to showcase my background and some of the projects I’ve worked on during my journey as an aspiring developer.
 
 *To see the page you can access this [link](https://ciocolici.github.io/Personal-Site/).*
 
