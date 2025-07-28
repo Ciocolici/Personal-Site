@@ -5,7 +5,7 @@ A project made while doing "[The Complete Full-Stack Web Development Bootcamp](h
 
 *The website also includes an online Resume made only in HTML, as part of the course, its repository can be accessed [here](https://github.com/Ciocolici/Online-Resume).* 
 
-*Note: This project contains information and projects relevant at the time of its creation. It was built for learning purposes only and will not be regularly updated.*
+*Note🕒: This project contains information and projects relevant at the time of its creation. It was built for learning purposes only and will not be regularly updated. To see the newer and actual one, you can check [this repository](https://github.com/Ciocolici/personal-website), or visit it directly [through this link](https://danielcirjeu.dev).*
 
 - [Logo Pic.](https://www.iconarchive.com/show/water-gaming-icons-by-tooschee/wow-worgen-icon.html)
 - [About Me Pic.](https://www.pngegg.com/en/png-kchba)
